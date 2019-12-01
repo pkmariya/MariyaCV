@@ -1,0 +1,12 @@
+
+hr { 
+		border-style: none;
+		border-top-style: dotted;
+		width: 200px;  
+		border-color: grey;
+		border-width: 8px;
+	}
+	
+	img {
+		border-radius: 50%; 
+	}
